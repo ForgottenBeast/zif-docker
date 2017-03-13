@@ -1,0 +1,3 @@
+[submodule "zif"]
+	path = zif
+	url = git@github.com:zif/zif.git
